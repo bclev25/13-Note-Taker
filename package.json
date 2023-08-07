@@ -18,5 +18,6 @@
   "bugs": {
     "url": "https://github.com/bclev25/13-Note-Taker/issues"
   },
-  "homepage": "https://github.com/bclev25/13-Note-Taker#readme"
+  "homepage": "https://github.com/bclev25/13-Note-Taker#readme",
+  "devDependencies": {}
 }
